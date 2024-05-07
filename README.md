@@ -1,5 +1,5 @@
 
-This PowerShell script seems to be performing several actions:
+EVIL SHELL V1.0 | NETWORK WORM 
 
 Checking Administrator Privileges: It checks if the current user is running with administrator privileges. If not, it attempts to bypass the User Account Control (UAC) by modifying the registry and running a specific executable with elevated privileges.
 
